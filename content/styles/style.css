@@ -79,8 +79,8 @@
 	right: 0;
 	top: 0;
 	z-index: -2;
-	min-width: 100vw;
-	min-height: 100vh;
+	min-width: 120%;
+	min-height: 120%;
 }
 
 @media only screen and (orientation: portrait) {
